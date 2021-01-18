@@ -48,4 +48,4 @@ switch($color) {
         echo "Welcome";
         break;
 }
-
+?>
